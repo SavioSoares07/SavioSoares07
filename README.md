@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sávio Soares</h1>
 <h3 align="center">Developer Full stack</h3>
 
-- 💬As a developer, I have led a team and am a computer teacher, helping several students to have an excellent foundation in computing and programming. My focus is to always help people with my knowledge. With an excellent base in JavaScript and a base in C#. I am well prepared to face any project. **HTML ,CSS,JavaScipt, Node, SQL, C#, React**
+- 💬As a developer, I have led a team and am a computer teacher, helping several students to have an excellent foundation in computing and programming. My focus is to always help people with my knowledge. With an excellent base in JavaScript and a base in C#. I am well prepared to face any project. **HTML ,CSS,JavaScipt, Node, SQL, C#, React, .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
