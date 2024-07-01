@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sávio Soares</h1>
 <h3 align="center">Developer Full stack</h3>
 
-- 💬As a developer, I have led a team and am a computer teacher, helping several students to have an excellent foundation in computing and programming. My focus is to always help people with my knowledge. With an excellent base in JavaScript and a base in C#. I am well prepared to face any project. **HTML ,CSS,JavaScipt, Node, SQL, C#, React, .NET**
+- 
+Atualmente cursando Sistemas de Informação, tenho formação técnica em Informática pela Escola Deputado José Maria Melo. Durante os três anos do curso técnico, adquiri conhecimentos em desenvolvimento de aplicações web e desktop, desenvolvendo habilidades em lógica de programação, HTML5, CSS3, JavaScript, PHP, Java, programação orientada a objetos com Java, MySQL e SQL. Além disso, possuo conhecimentos em pacotes de escritório como LibreOffice e Microsoft Office.
+
+Tenho também experiência em design com ferramentas como Photoshop e princípios de design UX/UI. Além dos conhecimentos adquiridos na escola técnica, desenvolvi habilidades teóricas e práticas em React JS, React Native, Node.js, C#, ASP.NET MVC e .NET, motivado por minha curiosidade e paixão pelo desenvolvimento.
+
+Já trabalhei durante dois anos como programador e atuei como freelancer, o que me proporcionou uma experiência prática valiosa na área.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
