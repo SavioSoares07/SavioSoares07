@@ -1,22 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sávio Soares</h1>
-<h3 align="center">Developer Full stack</h3>
+<div align='center'>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=26&pause=1000&color=fff&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+S%C3%A1vio+Soares+Developer" alt="Typing SVG" />
+    </a>
+</div>
+<hr>
+<h3>Sobre mim 🐧</h3>
+<p>
+    Tenho sólida experiência em C# e Angular, com especialização no desenvolvimento de APIs robustas usando ASP.NET MVC e na criação de interfaces dinâmicas com Angular. Busco aplicar minha formação como analista de dados para desenvolver soluções críticas e aprimorar minhas habilidades de liderança e trabalho em equipe.
+</p>
+<hr>
+<h3>🛠️ Tecnologias e Ferramentas</h3>
 
-- 
-Atualmente cursando Sistemas de Informação, tenho formação técnica em Informática pela Escola Deputado José Maria Melo. Durante os três anos do curso técnico, adquiri conhecimentos em desenvolvimento de aplicações web e desktop, desenvolvendo habilidades em lógica de programação, HTML5, CSS3, JavaScript, PHP, Java, programação orientada a objetos com Java, MySQL e SQL. Além disso, possuo conhecimentos em pacotes de escritório como LibreOffice e Microsoft Office.
+<!-- Front-end -->
+<div>
+    <h4>Front-end:</h4>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" />
+</div>
 
-Tenho também experiência em design com ferramentas como Photoshop e princípios de design UX/UI. Além dos conhecimentos adquiridos na escola técnica, desenvolvi habilidades teóricas e práticas em React JS, React Native, Node.js, C#, ASP.NET MVC e .NET, motivado por minha curiosidade e paixão pelo desenvolvimento.
+<!-- Back-end -->
+<div>
+    <h4>Back-end:</h4>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+</div>
+<!--Banco de Dados -->
+<div>
+    <h4>Banco de Dados:</h4>
+    <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+    <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+    <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 
-Já trabalhei durante dois anos como programador e atuei como freelancer, o que me proporcionou uma experiência prática valiosa na área.
+</div>
 
-<h3 align="left">Connect with me:</h3>
+<!--Feramentas-->
+<div>
+    <h4>Ferramentas:</h4>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+    <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</div>
+<hr>
+<h3 align="left">Conecte-se comigo!:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sávio-soares-21674b2b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sávio-soares-21674b2b1/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/savios.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/savios.7/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saviosoares07&show_icons=true&locale=en&layout=compact" alt="saviosoares07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saviosoares07&show_icons=true&locale=en" alt="saviosoares07" /></p>
+<hr>
+<div>
+    <h3> Estatísticas do GitHub 🚧
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saviosoares07&show_icons=true&locale=en&layout=compact" alt="saviosoares07" /></p>
+</div>
