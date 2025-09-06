@@ -21,44 +21,43 @@ Atuo desde a **análise de requisitos** até a **automação de testes funcionai
 ## 🛠️ Tecnologias e Ferramentas de QA  
 
 ### 🔹 Automação de Testes  
-![Cypress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg "Cypress" height="30")  
-![Robot Framework](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Robot Framework (base em Python)" height="30")  
-![Selenium](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg "Selenium" height="30")  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-14354C?style=for-the-badge&logo=python&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 
 ### 🔹 Testes de API e Performance  
-![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg "Postman" height="30")  
-![Insomnia](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg "Insomnia" height="30")  
-![JMeter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg "Apache JMeter" height="30")  
-![k6](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "k6 (base em JS)" height="30")  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)  
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)  
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)  
 
 ### 🔹 DevOps & CI/CD  
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg "Docker" height="30")  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git" height="30")  
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg "GitHub" height="30")  
-![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg "GitLab" height="30")  
-![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg "Jenkins" height="30")  
-![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg "Azure" height="30")  
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg "AWS" height="30")  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
 ### 🔹 Bancos de Dados  
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg "MySQL" height="30")  
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg "PostgreSQL" height="30")  
-![Oracle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg "Oracle" height="30")  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
 ---
 
-## 🔧 Linguagens de Programação (secundário)  
-*(usadas em suporte à automação e desenvolvimento de scripts)*  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript" height="30")  
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg "C#" height="30")  
-![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg "Go" height="30")  
+## 🔧 Linguagens de Programação (apoio à automação)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 
 ---
 
 ## 🌍 Conecte-se comigo  
 <p align="left">
   <a href="https://www.linkedin.com/in/saviosoares07" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
